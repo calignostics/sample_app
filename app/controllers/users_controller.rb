@@ -25,3 +25,5 @@ class UsersController < ApplicationController
                                    :password_confirmation)
     end
 end
+
+##MAJOR SIGN-IN-OUT-BRANCH
