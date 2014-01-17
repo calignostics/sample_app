@@ -12,7 +12,6 @@ def create
     flash.now[:error] = 'Invalid email/password combination' # Not quite right!
     render 'new'
     # Create an error message and re-render the signin form.
-
   end
 end
 
